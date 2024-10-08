@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Whos Available",
+  "version": "1.0.0",
+  "description": "Find out who's available to be picked up on your fantasy football without leaving an article",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
